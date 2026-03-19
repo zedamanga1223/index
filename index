@@ -1,1 +1,20 @@
-<h1>hi<h2>
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Minha Página</title>
+</head>
+<body>
+  <h1 style="color: #e63946;">Formas Geometricas</h1>
+  <p>[Apresentação bigode]</p>
+
+  <h2>Top 3</h2>
+  <ul>
+    <li>[circulo]</li>
+    <li>[quadrado]</li>
+    <li>[retangulo]</li>
+  </ul>
+
+  <p>Feito por: [zedamanga]</p>
+</body>
+</html>
